@@ -1,3 +1,6 @@
+<script src="https://maps.googleapis.com/maps/api/key=[add your own key]js?libraries=places"></script>
+
+
 # Graviti
 1)Basic technologies used
 Html
