@@ -8,10 +8,10 @@ Css
 Javascript
 
 2)Tools 
-google cloud
+-Google cloud
 
 3)Learnings
 
-Apis
-google cloud and services
-new design and functionalities
+-Apis
+-google cloud and services
+-new design and functionalities
