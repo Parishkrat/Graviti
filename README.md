@@ -13,5 +13,5 @@ Javascript
 3)Learnings
 
 -Apis
--google cloud and services
--new design and functionalities
+-Google cloud and services
+-New design and Functionalities
